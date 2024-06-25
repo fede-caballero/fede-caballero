@@ -1,10 +1,10 @@
-## Hola Mundo! 👋 Soy Federico Caballero
+## Hello world! 👋 I'm Federico Caballero
 
 
-- 🔭 Actualmente estoy estudiando ingenieria en informatica
-- 🌱 He utilizado Python, Java, Javascript, MySQL, PostgreSQL
-- 👾 Estoy aprendiendo Docker y Spring.
-- 👯 Tenemos proyectos colaborativos con compañeros de cursado.
-- 🤔 Me interesa la ciencia de datos.
-- 📫 Mail: federicorcaballero@gmail.com
+- 🔭 I'm currently studying to become a bachelor in Computer Engineering.
+- 🌱 I have worked with Python, Java, Javascript, MySQL, PostgreSQL.
+- 👾 I´m learning to use Docker and Spring in different projects, as well as React Native.
+- 👯 I have worked in groups in each project.
+- 🤔 I'm interested in Data Science and backend development.
+- 📫 e-mail: federicorcaballero@gmail.com
 
