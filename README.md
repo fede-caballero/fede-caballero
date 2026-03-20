@@ -44,4 +44,4 @@ Currently, I work as a **Radar Operator** for a cloud seeding system, a role tha
 * **Email:** [federicorcaballero@gmail.com](mailto:federicorcaballero@gmail.com)
 * **GitHub:** [fede-caballero](https://github.com/fede-caballero)
 * **Live Project:** [hail-cast.vercel.app](https://hail-cast.vercel.app)
-* **LinkedIn:**https://www.linkedin.com/in/federico-caballero1
+* **LinkedIn:** https://www.linkedin.com/in/federico-caballero1
