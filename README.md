@@ -45,9 +45,3 @@ Currently, I work as a **Radar Operator** for a cloud seeding system, a role tha
 * **GitHub:** [fede-caballero](https://github.com/fede-caballero)
 * **Live Project:** [hail-cast.vercel.app](https://hail-cast.vercel.app)
 * **LinkedIn:** [https://www.linkedin.com/in/federico-caballero1]
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fede-caballero&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-</p>
